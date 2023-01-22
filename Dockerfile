@@ -1,4 +1,4 @@
-FROM openjdk:8u292-slim-buster
+FROM eclipse-temurin:11.0.17_8-jre
 
 WORKDIR /opt
 
